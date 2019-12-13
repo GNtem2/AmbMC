@@ -5,4 +5,4 @@ Widget allows for user interaction
 Create a folder www and move the jpeg file into that folder.
 The file is provided for academic use only.
 It is provided at the request of the reviewers for a paper submitted to Frontiers in Neurology-Stroke 
-The app can be found at [![here](./MSUpic.png)](https://gntem3.shinyapps.io/ambmc)
+The app can be accessed by clicking the picture below [![here](./MSUpic.png)](https://gntem3.shinyapps.io/ambmc)
